@@ -23,7 +23,7 @@
   <string name="catalog_load_error_text">An error occurred while loading the catalog. Please try again.</string>
   <string name="catalog_load_not_connected">You are not connected to the internet. Please connect and try again.</string>
   <string name="catalog_book_revoke_loan_confirm">Are you sure you want to return this book?</string>
-  <string name="catalog_book_revoke_hold_confirm">Are you sure you want to remove this reservation?</string>
+  <string name="catalog_book_revoke_hold_confirm">Are you sure you want to remove this reservation? You will no longer be in line for this book.</string>
   <string name="catalog_book_delete_confirm">Are you sure you want to delete this book?</string>
   <string name="catalog_cancel_downloading">Cancel</string>
   <string name="catalog_categories">Categories</string>
@@ -61,7 +61,7 @@
   <string name="catalog_book_delete">Delete</string>
   <string name="catalog_book_revoke_loan">Return Now</string>
   <string name="catalog_book_revoke_hold">Remove</string>
-  <string name="catalog_book_report">Report Issue</string>
+  <string name="catalog_book_report">Report A Problem</string>
   <string name="catalog_book_distribution">Distributed by: %s</string>
   <string name="catalog_book_revoke_cancel">Cancel</string>
 
@@ -73,7 +73,7 @@
   <string name="catalog_book_availability_held_queue">You are at position %d in the queue for this book.</string>
   <string name="catalog_book_availability_reserved_timed">Your reservation expires in %s.</string>
   <string name="catalog_book_availability_reserved_indefinite">You have this book reserved.</string>
-  <string name="catalog_book_availability_loanable">This book is available for loan.</string>
+  <string name="catalog_book_availability_loanable">This book is available to borrow.</string>
   <string name="catalog_book_availability_holdable">All copies of this book are currently on loan.</string>
   <string name="catalog_book_availability_revoked">This book is waiting to be returned.</string>
   <string name="catalog_book_interval_days">days</string>
@@ -137,7 +137,7 @@
   <string name="settings_eula">User Agreement</string>
   <string name="settings_privacy">Privacy Policy</string>
   <string name="settings_licences">Licenses</string>
-  <string name="settings_licence_software">Software License</string>
+  <string name="settings_licence_software">Software Licenses</string>
   <string name="settings_licence_content">Content License</string>
   <string name="settings_logout_confirm">If you sign out of your account, all content will be removed from this device.</string>
   <string name="settings_adobe_accounts">Adobe Accounts</string>
